@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bead Counter</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_count">Count</string>
+    <string name="textview_count">0</string>
+    <string name="toast_message">Reset to Zero</string>
+</resources>
